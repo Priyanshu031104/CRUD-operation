@@ -1,0 +1,1 @@
+"# CRUD-live"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Priyanshu031104/CRUD-live.gitgit push -u origin main
